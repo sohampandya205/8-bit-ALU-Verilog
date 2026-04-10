@@ -33,6 +33,7 @@ The ALU performs 16 different operations including arithmetic, logical, shift, r
 | 1111    | A == B       |
 
 🧪 Simulation
+
 The design was verified using a Verilog testbench in Vivado.
 
 🛠️ Tools Used
