@@ -1,6 +1,7 @@
 🔷 8-bit ALU Design in Verilog
 
 📌 Overview
+
 This project implements an **8-bit Arithmetic Logic Unit (ALU)** using Verilog HDL.
 The ALU performs 16 different operations including arithmetic, logical, shift, rotate, and comparison operations.
 
